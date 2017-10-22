@@ -1,3 +1,2 @@
 # 22 October 17 #
-Hello
-
+Stair structure completed, and Reception completed.
