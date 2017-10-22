@@ -2,7 +2,7 @@
 
 This is for my slaves.
 
-#Lord_Entrepreneur's To Do List
+# Lord_Entrepreneur's To Do List
 * Extend platforms from stairs to create the floor for each level.
 * Do exterior for all the floors, I want the exterior to look complete from the outside.
 * Add keycard doors to seperate public stairs and executive stairs, surround door with wall / frame to stop tresspassing.
@@ -10,5 +10,5 @@ This is for my slaves.
 
 
 
-#Leighton_RBLX's To Do List
+# Leighton_RBLX's To Do List
 * Add stair handrails.
